@@ -35,3 +35,10 @@ Python scripts per LLM-condition pair.
 
 
 ## LLMs Used in This Study 
+| Model                   | # Params | Link                                                   | API Access                                              |
+|-------------------------|---------|--------------------------------------------------------|--------------------------------------------------------|
+| gpt-4o-2024-08-06      | Unknown | [OpenAI](https://openai.com/index/hello-gpt-4o/)      | [API](https://platform.openai.com/docs/models/gpt-4o#gpt-4o) |
+| o3-mini-2025-01-31     | Unknown | [OpenAI](https://openai.com/index/openai-o3-mini/)    | [API](https://platform.openai.com/docs/models/gpt-4o#o3-mini) |
+| DeepSeek-R1            | 671B    | [GitHub](https://github.com/deepseek-ai/DeepSeek-R1)  | [Fireworks](https://fireworks.ai/models/fireworks/deepseek-r1) |
+| Qwen2.5-72B-Instruct   | 72B     | [Hugging Face](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct) | [Fireworks](https://fireworks.ai/models/fireworks/qwen2p5-72b-instruct) |
+
