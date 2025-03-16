@@ -42,3 +42,38 @@ Python scripts per LLM-condition pair.
 | DeepSeek-R1            | 671B    | [GitHub](https://github.com/deepseek-ai/DeepSeek-R1)  | [Fireworks](https://fireworks.ai/models/fireworks/deepseek-r1) |
 | Qwen2.5-72B-Instruct   | 72B     | [Hugging Face](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct) | [Fireworks](https://fireworks.ai/models/fireworks/qwen2p5-72b-instruct) |
 
+## Output Format
+Results are saved as JSON objects in the specified output file:
+
+```
+{
+  "CISS": "",
+  "CE_1st_pass_Angio": "",
+  "CSF_Drive": "",
+  "CSF_PCA": "",
+  "DIR": "",
+  "DTI_32R": "",
+  "DWI": "",
+  "FLAIR": "",
+  "FLAIR_post_contrast": "",
+  "neck_angiography": "",
+  "T1_Dixon": "",
+  "T1_Dixon_post_contrast": "",
+  "T1_MPRAGE": "",
+  "T1_MPRAGE_post_contrast": "",
+  "PWI": "",
+  "SWI": "",
+  "T1_BB": "",
+  "T1_BB_post_contrast": "",
+  "T1_SPIR": "",
+  "T1_dynamic_contrast_enhanced": "",
+  "T2": "",
+  "T2_Dixon": "",
+  "T2_SPAIR": "",
+  "TOF_MRA": "",
+  "TRAK": "",
+  "TRANCE": "",
+  "TOF_MRA_post_contrast": "",
+  "Reasoning": ""
+}
+```
