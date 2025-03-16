@@ -1,9 +1,9 @@
 # Evaluating LLM-Generated Brain MRI Protocols
 Official implementation by the [HAIM Lab (Human-Centered AI in Medicine)](https://www.neurokopfzentrum.med.tum.de/neuroradiologie/forschung_projekt_haim.html) of the Technical University of Munich (TUM). 
 
-Study Title: "Evaluating Large Language Model-Generated Brain MRI Protocols: Performance of GPT4o, o3-mini, DeepSeek-R1 and Qwen2.5"
-
-Contact: Dr. med. Su Hwan Kim (suhwan.kim@tum.de)
+## Overview
+- Study Title: "Evaluating Large Language Model-Generated Brain MRI Protocols: Performance of GPT4o, o3-mini, DeepSeek-R1 and Qwen2.5"
+- Contact: Dr. med. Su Hwan Kim (suhwan.kim@tum.de), Institute of Diagnostic and Interventional Radiology, Technical University of Munich (TUM)
 
 This study evaluated the performance of four large language models (LLMs) in generating granular, sequence-level brain MRI imaging protocols from clinical case descriptions. Accuracy was evaluated against reference MRI protocols established by two board-certified neuroradiologists. 
 
